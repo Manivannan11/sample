@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is sample file 3
 adding features
+=======
+adding some featuresthis is sample file 3
+>>>>>>> dev
