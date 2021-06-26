@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
 adding some featuresthis is sample file 3
-=======
-this is sample file 3
-adding samples
->>>>>>> Stashed changes
